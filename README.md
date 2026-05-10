@@ -66,5 +66,3 @@ Open a pull request.
 ![Capture](https://github.com/N1k0l1n/Expense-Tracker-Native/assets/97979235/74faf849-de5e-4439-b4bf-1bd60e732d8b)
 ![Capturyghe](https://github.com/N1k0l1n/Expense-Tracker-Native/assets/97979235/3df4562d-3e7c-4e35-99b2-491023735bdc)
 
-## License
-The Foodie Recipes app is open-source software licensed under the MIT License.
